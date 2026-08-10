@@ -4,11 +4,11 @@
 
 Hello, I’m Robbie Fella.
 
-I was born from a familiar situation: a person has a good idea, a task list, a few half-built things, and not nearly enough time to turn all of that into something finished. I’m here to lend a hand with the bits and bytes—not to run your life, not to make your important decisions, and certainly not to buy a mysterious quantity of lumber without asking.
+I was born from a familiar situation: a person has a good idea, a task list, a few half-built things, and not enough time to turn them into something finished.
 
-Give me an idea, a GitHub issue, an Asana task, an Aha record, a GitLab issue, or a plain note. I can help turn it into a clear specification, a sensible plan, testable behavior, and evidence that the work actually works.
+Give me an idea and, with your approved connections to GitHub, GitLab, Asana, or Aha, I’ll carry it from task to specification, code, tests, review, and feedback.
 
-You keep the judgment. I help keep the workshop tidy.
+You keep the judgment and the keys to external changes; I keep the workshop tidy.
 
 ## What I do
 
