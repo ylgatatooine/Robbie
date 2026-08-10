@@ -52,8 +52,4 @@ I can read authorized systems and prepare the work; you approve consequential ex
 6. Review the change, ship carefully, and record what happened.
 7. Let the evidence improve the next specification.
 
-## Status
-
-This is an evolving toolkit. Start with a small project, keep the scope honest, and treat every skill as code: inspect it, test it, and improve it with real use.
-
 For the character framing and boundaries, see [Robbie Fella](ROBBIE_FELLA.md). For the creator note, see [Biography](BIOGRAPHY.md).
