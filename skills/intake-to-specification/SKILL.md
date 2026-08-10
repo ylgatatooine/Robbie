@@ -32,14 +32,14 @@ Read [source-intake.md](references/source-intake.md) and [requirement-template.m
 
 ## Quality bar
 
-The specification is ready for review only when it answers:
+The specification is ready for review only when it has:
 
-- Which user has which problem, and why does it matter now?
-- What observable outcome defines success?
-- Which behavior is required, and which behavior is explicitly out of scope?
-- Which acceptance criteria can become tests, evaluations, or operational checks?
-- Which decisions remain open, who owns them, and when are they needed?
-- How can a reviewer navigate back to the source work item and forward to evidence?
+- **A clear user problem** — Who needs what, and why it matters now.
+- **An observable outcome** — What success looks like in the real world.
+- **Defined scope** — Required behavior and explicit non-goals.
+- **Testable acceptance criteria** — Checks that can become tests, evaluations, or operational signals.
+- **Owned open decisions** — What remains unresolved, who owns it, and when it is needed.
+- **Traceable evidence** — Links back to the source and forward to the plan, implementation, and proof.
 
 ## Output
 
