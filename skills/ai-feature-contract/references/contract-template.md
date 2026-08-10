@@ -1,5 +1,7 @@
 # AI Feature Contract
 
+> Use only the rows that apply. This contract supports user-facing chat or voice, research and retrieval, agents with tools, automated decisions, coding assistants, and internal AI development workflows.
+
 ## Feature identity
 
 - Feature name:
@@ -9,6 +11,16 @@
 - Non-goals:
 - Linked specification and ADRs:
 
+## AI operating profile
+
+| Item | Contract |
+|---|---|
+| Context | User-facing, operator-facing, internal development, or other |
+| Modality | Chat, voice, document, image, code, or other |
+| AI role | Research, retrieval, generation, analysis, coding, orchestration, or other |
+| Authority level | Advise, draft, recommend, execute, or decide |
+| Accountable human | Who owns approval, escalation, and final judgment |
+
 ## User experience
 
 | Item | Contract |
@@ -17,6 +29,7 @@
 | Inputs | |
 | Output | |
 | Latency | |
+| Interruption or turn-taking | Required for voice or real-time interaction; otherwise N/A |
 | Failure behavior | |
 | Human escalation | |
 
@@ -43,6 +56,7 @@
 | Component | Choice and rationale | Limits | Failure handling |
 |---|---|---|---|
 | Model | | | |
+| Voice, interface, or modality component | | | |
 | Tool or connector | | | |
 | Retrieval source | | | |
 
@@ -62,7 +76,8 @@
 | Task success | | | |
 | Groundedness | | | |
 | Safety | | | |
-| Tool use | | | |
+| Authority and tool use | | | |
+| Interaction or modality | Voice, chat, document, image, or code behavior as applicable | | |
 | Latency and cost | | | |
 
 - Regression policy:
