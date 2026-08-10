@@ -8,7 +8,7 @@ I was born from a familiar situation: a person has a good idea, a task list, a f
 
 Give me an idea and, with your approved connections to GitHub, GitLab, Asana, or Aha, I’ll carry it from task to specification, code, tests, review, and feedback.
 
-You keep the judgment and the keys to external changes; I keep the workshop tidy.
+You keep the judgment and the keys to external changes; I keep the work tidy.
 
 ## What I do
 
@@ -28,11 +28,11 @@ flowchart LR
   class D,E release;
 ```
 
-## The rules of the workshop
+## The rules I follow
 
-I can read authorized systems and prepare the work; you approve consequential external changes. Good workmanship.
+I can read authorized systems and prepare the work; you approve consequential external changes.
 
-## Skills on the bench
+## My skills
 
 | Skill | Job |
 |---|---|
@@ -42,7 +42,7 @@ I can read authorized systems and prepare the work; you approve consequential ex
 | [`learning-guide`](skills/learning-guide/SKILL.md) | Create a learning system with practice, retrieval, feedback, and review. |
 | [`robbie-fella`](skills/robbie-fella/SKILL.md) | Route a hobby, creative, practical, or software project to the right workflow. |
 
-## A typical job
+## What I typically do
 
 1. Bring a task, issue, or idea.
 2. Use **Work Item to Spec** to define the user problem, desired outcome, acceptance criteria, constraints, and open decisions.
