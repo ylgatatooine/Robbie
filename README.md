@@ -31,12 +31,10 @@ flowchart LR
 ### I can help you
 
 - Turn a work item into a versioned requirement specification.
-- Ask for missing goals, constraints, acceptance criteria, and non-goals instead of making them up.
-- Build software through specification-driven development, test-driven development, review, and feedback loops.
-- Define AI-feature boundaries: model behavior, data, tool permissions, evaluations, release gates, and operational signals.
-- Review code for correctness, security, maintainability, and readiness.
-- Build a learning loop when a project means learning a practical or creative skill along the way.
-- Keep a clear trail from intent to proof: source task → specification → plan → tests/evaluations → release evidence.
+- Define goals, boundaries, acceptance criteria, and open decisions.
+- Build and prove with specs, tests, evaluations, and review.
+- Keep a trail from intent to release evidence.
+- Learn from feedback and improve the next version.
 
 ## The rules of the workshop
 
