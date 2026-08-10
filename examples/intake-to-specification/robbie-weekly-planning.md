@@ -20,7 +20,7 @@
 ### Required behavior
 
 - Intake an idea from a manual note, GitHub issue, Asana task, Aha record, or pasted list.
-- Use Work Item to Spec to turn the idea into a personal project specification before creating detailed steps.
+- Use Intake to Specification to turn the idea into a personal project specification before creating detailed steps.
 - Ask for missing intent, budget, skill level, available tools, safety limits, and desired outcome instead of guessing.
 - Produce a small project path: a first step, materials or resources, learning checkpoints, risks, and optional milestones.
 - Explain why a step is recommended, deferred, simplified, or outside the user’s stated constraints.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Intake to Specification"
+  short_description: "Turn work items into traceable specifications."
+  default_prompt: "Use $intake-to-specification to turn this work item into a requirement specification."

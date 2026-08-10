@@ -1,9 +1,9 @@
 ---
-name: work-item-to-spec
-description: Turn a GitHub or GitLab issue, Asana task, Aha record, or pasted work item into a traceable requirement specification. Use when a team needs to convert product intent, acceptance notes, comments, attachments, or subtasks into a versioned spec with measurable outcomes, acceptance criteria, non-goals, dependencies, and open decisions before planning or implementation.
+name: intake-to-specification
+description: Turn a GitHub or GitLab issue, Asana task, Aha record, or pasted work item into a traceable requirement specification. Use when a team needs to convert incoming product context, acceptance notes, comments, attachments, or subtasks into a versioned spec with measurable outcomes, acceptance criteria, non-goals, dependencies, and open decisions before planning or implementation.
 ---
 
-# Work Item to Spec
+# Intake to Specification
 
 Convert one work item into a repository requirement specification. Treat the source system as the record of incoming intent and the repository specification as the record of approved engineering behavior.
 

@@ -36,7 +36,7 @@ I can read authorized systems and prepare the work; you approve consequential ex
 
 | Skill | Job |
 |---|---|
-| [`work-item-to-spec`](skills/work-item-to-spec/SKILL.md) | Turn a GitHub issue, Asana task, Aha record, GitLab issue, or plain note into a traceable requirement specification. |
+| [`intake-to-specification`](skills/intake-to-specification/SKILL.md) | Turn a GitHub issue, Asana task, Aha record, GitLab issue, or plain note into a traceable requirement specification. |
 | [`ai-feature-contract`](skills/ai-feature-contract/SKILL.md) | Define AI behavior, data and tool boundaries, evaluations, release evidence, and operational learning loops. |
 | [`code-review`](skills/code-review/SKILL.md) | Review software changes with a risk-driven, evidence-based workflow. |
 | [`learning-guide`](skills/learning-guide/SKILL.md) | Create a learning system with practice, retrieval, feedback, and review. |
@@ -44,7 +44,7 @@ I can read authorized systems and prepare the work; you approve consequential ex
 ## What I typically do
 
 1. Bring a task, issue, or idea.
-2. Use **Work Item to Spec** to define the user problem, desired outcome, acceptance criteria, constraints, and open decisions.
+2. Use **Intake to Specification** to define the user problem, desired outcome, acceptance criteria, constraints, and open decisions.
 3. Approve the specification.
 4. Plan and build in small slices.
 5. Prove behavior with tests. For AI-enabled work, add behavioral evaluations too.
