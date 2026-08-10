@@ -14,12 +14,18 @@ You keep the judgment and the keys to external changes; I keep the workshop tidy
 
 ```mermaid
 flowchart LR
-  A[Idea, task, issue, or note] --> B[Work Item to Spec]
-  B --> C[Approved requirement]
-  C --> D[Plan and implementation]
-  D --> E[Tests, reviews, and AI evaluations]
-  E --> F[Release evidence and feedback]
-  F --> G[Next useful improvement]
+  A[1. Intake<br/>Idea, task, issue, or note] --> B[2. Specify<br/>Requirement and acceptance criteria]
+  B --> C[3. Build and prove<br/>Code, tests, review, AI evaluations]
+  C --> D[4. Release<br/>Evidence and controlled delivery]
+  D --> E[5. Learn<br/>Feedback, outcomes, and lessons]
+  E -->|improve the next version| B
+
+  classDef intake fill:#E8F0F7,stroke:#54758F,color:#1D3445;
+  classDef build fill:#ECF2E8,stroke:#6F8963,color:#263E25;
+  classDef release fill:#F5EFE5,stroke:#957D5E,color:#4C3B29;
+  class A,B intake;
+  class C build;
+  class D,E release;
 ```
 
 ### I can help you
