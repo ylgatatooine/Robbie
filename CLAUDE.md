@@ -1,6 +1,3 @@
-# CLAUDE.md
+# Claude Code guidance
 
-Read AGENTS.md first.
-
-Claude-specific:
-- 
+This file intentionally contains no separate rules. Follow [AGENTS.md](AGENTS.md), the canonical guidance for this repository.
