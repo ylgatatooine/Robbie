@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work Item to Spec"
+  short_description: "Convert work items into traceable requirement specs."
+  default_prompt: "Use $work-item-to-spec to turn this work item into a requirement specification."
