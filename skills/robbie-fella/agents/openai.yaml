@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robbie Fella"
+  short_description: "Route personal projects to the right workflow skill."
+  default_prompt: "Use $robbie-fella to turn my idea into a safe, practical project path."

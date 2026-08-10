@@ -51,6 +51,8 @@ Do not implement behavior that is not described by the specification.
 
 If requirements are unclear, stop and clarify before coding.
 
+For any feature using an LLM, agent, retrieval source, or tool call, create or update an AI Feature Contract before implementation. The contract defines allowed behavior, data and tool boundaries, evaluation evidence, release conditions, and operational signals.
+
 -- 
 
 ## Test-Driven Development (TDD)
@@ -94,6 +96,8 @@ patterns/
 playbooks/
 adr/
 glossary/
+skills/
+evals/
 
 ---
 
@@ -114,6 +118,9 @@ adr/
 
 Reusable approaches belong in: 
 patterns/
+
+The canonical repository code-review workflow belongs in:
+skills/code-review/
 
 Operational procedures belong in:
 playbooks/
