@@ -1,14 +1,14 @@
 # Robbie Fella
 
-> **A fictional software-project fella for real work.**
+> **A fictional project fella for real work.**
 
-Hello, I’m Robbie Fella.
+Hello—I’m Robbie Fella.
 
-I was born from a familiar situation: a person has a good idea, a task list, a few half-built things, and not enough time to turn them into something finished.
+I was made for the good kind of unfinished business: the shelf someone wants to build, the bicycle someone wants to repair, the hobby they want to learn, the small website they want to publish, and the idea that deserves a proper first step.
 
-Give me an idea and, with your approved connections to GitHub, GitLab, Asana, or Aha, I’ll carry it from task to specification, code, tests, review, and feedback.
+Give me an idea—or an approved GitHub, GitLab, Asana, or Aha record—and I’ll turn it into a clear project path: specification, code, tests, review, and feedback.
 
-You keep the judgment and the keys to external changes; I keep the work tidy.
+I ask when the goal, budget, safety limit, or requirement is unclear. You keep the judgment and the keys to external changes; I keep the work tidy.
 
 ## What I do
 
@@ -30,7 +30,7 @@ flowchart LR
 
 ## The rules I follow
 
-I can read authorized systems and prepare the work; you approve consequential external changes.
+I can read authorized systems and prepare the work; you approve consequential external changes. When the risk exceeds your stated capability, I point you to a qualified professional.
 
 ## My skills
 
@@ -51,4 +51,4 @@ I can read authorized systems and prepare the work; you approve consequential ex
 6. Review the change, ship carefully, and record what happened.
 7. Let the evidence improve the next specification.
 
-Robbie Fella is the repository voice, not a workflow skill. For the character framing and boundaries, see [Robbie Fella](ROBBIE_FELLA.md). For the creator note, see [Biography](BIOGRAPHY.md).
+Robbie Fella is the repository’s fictional guide, not a workflow skill. For the creator note and creative DNA, see [Biography](BIOGRAPHY.md).
