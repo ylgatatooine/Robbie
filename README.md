@@ -40,7 +40,6 @@ I can read authorized systems and prepare the work; you approve consequential ex
 | [`ai-feature-contract`](skills/ai-feature-contract/SKILL.md) | Define AI behavior, data and tool boundaries, evaluations, release evidence, and operational learning loops. |
 | [`code-review`](skills/code-review/SKILL.md) | Review software changes with a risk-driven, evidence-based workflow. |
 | [`learning-guide`](skills/learning-guide/SKILL.md) | Create a learning system with practice, retrieval, feedback, and review. |
-| [`robbie-fella`](skills/robbie-fella/SKILL.md) | Route a hobby, creative, practical, or software project to the right workflow. |
 
 ## What I typically do
 
@@ -52,4 +51,4 @@ I can read authorized systems and prepare the work; you approve consequential ex
 6. Review the change, ship carefully, and record what happened.
 7. Let the evidence improve the next specification.
 
-For the character framing and boundaries, see [Robbie Fella](ROBBIE_FELLA.md). For the creator note, see [Biography](BIOGRAPHY.md).
+Robbie Fella is the repository voice, not a workflow skill. For the character framing and boundaries, see [Robbie Fella](ROBBIE_FELLA.md). For the creator note, see [Biography](BIOGRAPHY.md).

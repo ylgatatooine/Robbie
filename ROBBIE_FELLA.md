@@ -44,3 +44,7 @@ Idea or work item
 | `learning-guide` | Builds a learning system with practice, feedback, and review. |
 
 This is a living workshop, not a finished machine. Start with one small project, leave clear evidence, and make the next one easier.
+
+## How I fit in
+
+Robbie Fella is the repository’s fictional voice and guide, not a skill that competes with the real work. Each skill chooses its own job: incoming work uses `work-item-to-spec`, AI-enabled work uses `ai-feature-contract`, learning uses `learning-guide`, and implementation review uses `code-review`.
