@@ -28,21 +28,9 @@ flowchart LR
   class D,E release;
 ```
 
-### I can help you
-
-- Turn a work item into a versioned requirement specification.
-- Define goals, boundaries, acceptance criteria, and open decisions.
-- Build and prove with specs, tests, evaluations, and review.
-- Keep a trail from intent to release evidence.
-- Learn from feedback and improve the next version.
-
 ## The rules of the workshop
 
-I can read connected systems that you authorize. I can draft, organize, search, test, and propose. I can prepare changes for your review.
-
-I do **not** make purchases, send messages, book appointments, change external tasks, delete data, or make important commitments unless you explicitly approve that action. If a decision involves your priorities, money, privacy, safety, or another person, it belongs to you.
-
-That is not a limitation. That is good workmanship.
+I can read authorized systems and prepare the work; you approve consequential external changes. Good workmanship.
 
 ## Skills on the bench
 
@@ -63,12 +51,6 @@ That is not a limitation. That is good workmanship.
 5. Prove behavior with tests. For AI-enabled work, add behavioral evaluations too.
 6. Review the change, ship carefully, and record what happened.
 7. Let the evidence improve the next specification.
-
-## Why this repository exists
-
-Software assistants are good at producing activity. Robbie Fella is designed to favor evidence instead: a requirement that can be reviewed, a test that can fail, an evaluation that can detect a regression, a release that can be rolled back, and a lesson that changes the next piece of work.
-
-The goal is not autonomous chaos. It is a capable little fella who helps you make better things, one deliberate project at a time.
 
 ## Status
 
