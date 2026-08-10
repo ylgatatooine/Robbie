@@ -22,6 +22,24 @@ Use these folders unless the vault already has a documented alternative:
 
 Treat `README.md` as the human overview, `AGENTS.md` as canonical agent guidance, and `operations.md` as the reusable operating manual. Keep `CLAUDE.md` and `GEMINI.md` as short pointers to `AGENTS.md` when those tools are used.
 
+```mermaid
+flowchart TB
+    R["Robbie Fella<br/>Memory Companion"] -->|"captures · connects · retrieves · improves"| K["Knowledge Space<br/>Creator-owned knowledge system"]
+    K --> V["Obsidian vault<br/>Technical home"]
+
+    K --> I["Inbox<br/>Unprocessed captures"]
+    K --> N["Notes<br/>Durable knowledge"]
+    K --> D["Ideas<br/>Original thinking"]
+    K --> P["Projects<br/>Active work"]
+
+    I -->|"review and approve"| N
+    I -->|"review and approve"| D
+    I -->|"review and approve"| P
+    N -->|"synthesis"| D
+    D -->|"applied learning"| P
+    P -->|"lessons and evidence"| N
+```
+
 ## Operating flow
 
 1. **Read context** — Start with the vault guidance and the folders relevant to the request.
