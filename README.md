@@ -39,7 +39,7 @@ I can read authorized systems and prepare the work; you approve consequential ex
 | [`intake-to-specification`](skills/intake-to-specification/SKILL.md) | Turn a GitHub issue, Asana task, Aha record, GitLab issue, or plain note into a traceable requirement specification. |
 | [`ai-feature-contract`](skills/ai-feature-contract/SKILL.md) | Define AI behavior, data and tool boundaries, evaluations, release evidence, and operational learning loops. |
 | [`code-review`](skills/code-review/SKILL.md) | Review software changes with a risk-driven, evidence-based workflow. |
-| [`learning-guide`](skills/learning-guide/SKILL.md) | Create a learning system with practice, retrieval, feedback, and review. |
+| [`memory-companion`](skills/memory-companion/SKILL.md) | Capture, retrieve, and improve what you learn through practice and projects. |
 
 ## What I typically do
 
