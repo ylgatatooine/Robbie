@@ -15,13 +15,13 @@ Read [source-intake.md](references/source-intake.md) and [requirement-template.m
 
 ## Workflow
 
-1. Identify the source type and record its title, URL or identifier, owner, status, description, comments, subtasks, attachments, and linked work.
-2. Normalize the source into: user, problem, desired outcome, evidence of value, constraints, proposed behavior, and unknowns.
-3. Separate facts from assumptions. Never treat a comment, label, or implementation suggestion as an approved requirement unless the source clearly says so.
-4. Draft a versioned requirement using the template. Include measurable success criteria, functional and non-functional acceptance criteria, constraints, non-goals, dependencies, and risks.
-5. Convert ambiguities into **Open decisions** with a decision owner. Ask concise questions when a human decision is needed; do not invent policy, legal, privacy, security, or business choices.
-6. Create a trace link back to the source work item and forward links to implementation plan, ADRs, AI Feature Contract, evaluations, and release evidence when they exist.
-7. Present the draft for human approval. Only after approval may a connected source system be updated with a link and status summary.
+1. **Capture source** — Record its title, link, owner, status, content, and related work.
+2. **Extract intent** — Identify the user, problem, outcome, value, constraints, behavior, and unknowns.
+3. **Separate facts** — Mark assumptions; do not promote a comment or suggestion into a requirement without clear approval.
+4. **Draft the spec** — Use the template for success criteria, acceptance criteria, constraints, non-goals, dependencies, and risks.
+5. **Surface decisions** — Turn ambiguity into an open decision with an owner; ask rather than invent policy or business choices.
+6. **Link the evidence** — Trace back to the source and forward to the plan, ADRs, AI contract, evaluations, and release evidence.
+7. **Get approval** — Present the draft for human approval; write back to a connected source only after approval.
 
 ## Source rules
 
